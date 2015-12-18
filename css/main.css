@@ -76,10 +76,16 @@ body {
 }
 
 .topbar {
+<<<<<<< HEAD
     background-color: #0e1a42;
     width: 100%;
     overflow: hidden;
 
+=======
+    background-color: #2AB7CA;
+    width: 100%;
+    overflow: hidden;
+>>>>>>> 525fac52526fae24e0edf2127bdb954e8aeb6b7b
 }
 
 .logo img {
@@ -90,6 +96,7 @@ body {
 
 .mainmenu li {
     font-size: 1em;
+<<<<<<< HEAD
     font-weight: 100;
     padding: .2em 1em;
 
@@ -97,12 +104,23 @@ body {
     text-decoration: none;
     line-height: 1.2em;
     color: white;
+=======
+    font-weight: thin;
+    padding: 0 1em;
+    text-align: right;
+    text-decoration: none;
+    line-height: 1.2em;
+>>>>>>> 525fac52526fae24e0edf2127bdb954e8aeb6b7b
 }
 
 .mainmenu li a {
     text-decoration: none;
+<<<<<<< HEAD
     color: white;
 
+=======
+    color: #353535;  
+>>>>>>> 525fac52526fae24e0edf2127bdb954e8aeb6b7b
 }
 
 .main {
@@ -129,11 +147,14 @@ h2 {
     padding-bottom: 1em;
 }
 
+<<<<<<< HEAD
 .watchreveal {
 
     padding-top: 1em;
 }
 
+=======
+>>>>>>> 525fac52526fae24e0edf2127bdb954e8aeb6b7b
 .modulecontent {
     margin-top: 1em;
     background-color: #E6E6EA;
@@ -181,6 +202,7 @@ h5 {
 
 .services {
     background-color: #F4F4F8;
+<<<<<<< HEAD
     padding: 1em;
 
 }
@@ -189,11 +211,18 @@ section {
     margin-right: auto;
     margin-left: auto;
 }*/
+=======
+    padding: 1em;  
+}
+>>>>>>> 525fac52526fae24e0edf2127bdb954e8aeb6b7b
 
 .col {
 
     margin: 1em;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 525fac52526fae24e0edf2127bdb954e8aeb6b7b
 }
 
 .s1 {
@@ -205,7 +234,10 @@ section {
 
 .services figure>img {
      width: 80px;
+<<<<<<< HEAD
      padding-bottom: .5em;
+=======
+>>>>>>> 525fac52526fae24e0edf2127bdb954e8aeb6b7b
 }
 
 fieldset {
